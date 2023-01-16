@@ -10,3 +10,7 @@ npm create astro@latest -- --template with-tailwindcss
 Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. This example showcases how to style your Astro project with Tailwind.
 
 For complete setup instructions, please see our [Styling Guide](https://docs.astro.build/guides/styling#-tailwind).
+
+# About
+
+Shoutout to Chris from [Coding in Public](https://www.youtube.com/@CodinginPublic) for the great tutorial!
